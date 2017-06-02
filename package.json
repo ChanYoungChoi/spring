@@ -1,0 +1,19 @@
+{
+  "name": "yboard-spring",
+  "version": "1.0.0",
+  "description": "yboard-spring\r ============\r >**yboard-spring은 jquery, angularJS, bootstrap, spring을 이용한 간단한 게시판입니다.**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChanYoungChoi/spring.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChanYoungChoi/spring/issues"
+  },
+  "homepage": "https://github.com/ChanYoungChoi/spring#readme"
+}
